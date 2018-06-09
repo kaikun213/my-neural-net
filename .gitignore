@@ -1,0 +1,6 @@
+# ignore environment files 
+environment/
+
+# ignore results and networks folder if existent
+src/results
+src/networks
