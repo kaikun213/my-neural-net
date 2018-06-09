@@ -86,6 +86,7 @@ Example experiments can be found in `environments/app/universe-envs/world-of-bit
 Deploy the docker images on some cloud instance (Ubuntu image tested) and run them as described in the `DOCKER_README.md` install instructions.
 
 Example of observing the experiments remotely via VNC from the phone:
+
 <img src="utils/img/example_cloudAgent.jpg" alt="Example cloud agent" width="300x"/>
 
 
