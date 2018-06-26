@@ -4,7 +4,7 @@ This repository contains the client (agent) side of a simple framework for a rei
 
 The agent architecture is based on [Ali Kaan Sungurs Master Thesis (2017)](http://etd.lib.metu.edu.tr/upload/12621275/index.pdf).
 It is slightly modified and reimplemented in NUPIC, Numentas Platform for Intelligent Computing.
-The implementation and experimentation was part of a [Bachelor Thesis Project](https://drive.google.com/open?id=1MTeDOLma6APog7TTKz8L-bBPkDeugf7Y), where further information can be found.
+The implementation and experimentation was part of a [Bachelor Thesis Project](http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-75868), where further information can be found.
 
 It can be build locally from source or the docker images are modified for an easy integration in some cloud infrastructure. However optimization for parallel training of agents is not yet implemented.
 
